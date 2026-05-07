@@ -1,7 +1,6 @@
 # 👋 Hello, I'm J2H3233!
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Backend%20&%20AI%20Explorer&fontSize=45)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=J2H3233%20&%20AI%20Explorer&fontSize=45)
 
 ---
 
@@ -45,3 +44,4 @@
 
 ### 📫 Contact Me
 - **GitHub:** [https://github.com/J2H3233](https://github.com/J2H3233)
+- **email:** [jh.jeon3233@gmail.com](jh.jeon3233@gmail.com)
