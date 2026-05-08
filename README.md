@@ -37,16 +37,10 @@
 
 ### 📊 Stats & Performance
 
-#### 🐙 GitHub Status
-<p align="center">
-  <!-- 미러 서버 적용 + 조직 기여도 포함 -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=J2H3233&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
-</p>
-
-#### 🥈 Baekjoon Tier (BOJ)
-<p align="center">
+<p align="left">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=J2H3233&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="170" />
   <a href="https://solved.ac/jh_j3233">
-    <img src="https://mazassumnida.vercel.app/api/v2/generate_badge?boj=jh_j3233" />
+    <img src="https://mazassumnida.vercel.app/api/v2/generate_badge?boj=jh_j3233" height="170" />
   </a>
 </p>
 ---
