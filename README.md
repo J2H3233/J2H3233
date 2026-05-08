@@ -1,6 +1,6 @@
 # 👋 Hello, I'm J2H3233!
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=J2H3233%20Developer&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=J2H3233&fontSize=50)
 
 ---
 
