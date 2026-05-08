@@ -46,7 +46,7 @@
 #### 🥈 Baekjoon Tier (BOJ)
 <p align="center">
   <a href="https://solved.ac/jh_j3233">
-    <img src="http://mazandi.herokuapp.com/api?handle=jh_j3233&theme=warm" />
+    <img src="https://mazassumnida.vercel.app/api/v2/generate_badge?boj=jh_j3233" />
   </a>
 </p>
 ---
