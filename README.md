@@ -29,9 +29,9 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
   <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white">
-  <div>LangGraph, RAGFlow</div>
+  <img src="https://img.shields.io/badge/LangGraph-333333?style=flat-square">
+  <img src="https://img.shields.io/badge/RAGFlow-0052CC?style=flat-square">
 </p>
-
 
 ---
 
@@ -39,15 +39,14 @@
 
 #### 🐙 GitHub Status
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=J2H3233&show_icons=true&count_private=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=J2H3233&layout=compact&theme=radical" />
+  <!-- 미러 서버 적용 + 조직 기여도 포함 -->
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=J2H3233&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
 </p>
 
 #### 🥈 Baekjoon Tier (BOJ)
 <p align="center">
-  <!-- 백준 아이디가 다르면 boj= 뒤의 ID를 수정하세요 -->
   <a href="https://solved.ac/jh_j3233">
-    <img src="https://mazassumnida.vercel.app/api/v2/generate_badge?boj=jh_j3233" />
+    <img src="http://mazandi.herokuapp.com/api?handle=jh_j3233&theme=warm" />
   </a>
 </p>
 
@@ -55,4 +54,4 @@
 
 ### 📫 Contact Me
 - **GitHub:** [https://github.com/J2H3233](https://github.com/J2H3233)
-- **E-mail:** [jh.jeon3233@gmail.com](jh.jeon3233@gmail.com)
+- **E-mail:** [jh.jeon3233@gmail.com](mailto:jh.jeon3233@gmail.com)
